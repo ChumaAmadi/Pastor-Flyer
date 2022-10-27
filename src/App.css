@@ -127,3 +127,10 @@
   padding: 24px;
   padding-left: 13px;
 }
+
+.footer {
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+  margin-bottom: 10px;
+}

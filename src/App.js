@@ -25,8 +25,9 @@ function App() {
           <h3 className='sunday'>Sunday</h3>
           <p className='date-text2'>October 30th</p>
           <p className='time-text2'>11:00am - 1:00pm</p>
-          </div>
+        </div>
       </div>
+      <h3 className='footer'>Come & Experience The Anointing Of The Holy Spirit</h3>
     </div>
   );
 }

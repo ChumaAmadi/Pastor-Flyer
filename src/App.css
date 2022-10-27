@@ -1,0 +1,60 @@
+.App {
+  background-color: #fffacd;
+}
+
+.App-header {
+  text-align: center;
+  font-style: oblique;
+}
+
+.App-subheader {
+  text-align: center;
+  font-style: oblique;
+}
+
+.App-subheader2 {
+  text-align: center;
+}
+
+.App-subheader3 {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: oblique;
+  margin-bottom: 10px;
+}
+
+.pastor {
+  height: 400px;
+  width: 380px;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 5px;
+  margin: 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.flyer-description {
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 220px;
+}
+
+.flyer-description1 {
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 220px;
+}
+
+.flyer-description2 {
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 220px;
+}
